@@ -1,2 +1,3 @@
-# call-azure-monitor-api
-https://docs.microsoft.com/ja-jp/azure/azure-monitor/
+# call-azure-loganalytics-rest-api
+
+参考：https://dev.loganalytics.io/documentation/Overview
